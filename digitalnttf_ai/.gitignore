@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment secrets
+.env
+
+# SQLite Databases & Local files
+*.db
+*.sqlite3
+digitalnttf.db
+
+# Logs & Screenshots
+logs/
+automation.log
+screenshots/
+*.png
+
+# Playwright artifacts
+.playwright/

@@ -1,0 +1,6 @@
+{
+  "name": "Digital NTTF AI Automation",
+  "description": "Simplified AI-powered browser automation system for Digital NTTF assignments, practice tests, and quizzes using Playwright and Groq AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
